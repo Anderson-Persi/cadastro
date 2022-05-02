@@ -1,0 +1,13 @@
+Este projeto foram usado
+
+XAMP
+https://xampp.br.uptodown.com/windows
+
+Após a instalação faça o transferência dos arquivos para a pasta
+C:\xampp\htdocs
+
+Logo em seguida abra uma aba no navegador
+http://localhost/phpmyadmin/index.php?route=/database
+
+!IMPORTANTE!
+O nome da pasta tranferida para C: tem que ser o mesmo nome do SQL
